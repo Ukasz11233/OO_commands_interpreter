@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/testing.dir/testing.cpp.o CMakeFiles/testing.dir/__/sources/ReadInput.cpp.o CMakeFiles/testing.dir/__/sources/ComplexObject.cpp.o CMakeFiles/testing.dir/__/sources/DoubleObject.cpp.o CMakeFiles/testing.dir/__/sources/IntObject.cpp.o CMakeFiles/testing.dir/__/sources/StringObject.cpp.o -o testing  ../lib/libgtest_main.a ../liblab_09.a ../lib/libgtest.a 
