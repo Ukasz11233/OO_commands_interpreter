@@ -3,16 +3,16 @@
 I have created simple command interpreter in oo style.
 It creates different kind of objects, shows them, multiply them and can sum up all of them.
 
-##Object types:  
+## Object types:  
 
 StringObject -- creates a string object
 IntObject -- creates an int object
 DoubleObject -- creates a double object
 ComplexObject -- creates a std::complex object
 
-##Commands:  
+## Commands:  
 
-###add -- creates and object  
+### add -- creates and object  
 
 _add StringObject:Hello World_
 
@@ -29,7 +29,7 @@ _mul 3_
 
 _sum_
 
-##For instance:
+## For instance:
 
 _add StringObject:Hello World!_  
 _add StringObject: @@!!_  
@@ -39,7 +39,7 @@ _get 0_
 _mul 2_  
 _sum_  
 
-###Should print:
+### Should print:
 
 _StringObject("Hello World!")_  
 _StringObject("Hello World!Hello World! @@!! @@!!")_  
