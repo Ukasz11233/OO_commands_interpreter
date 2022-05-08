@@ -1,2 +1,2 @@
-/usr/bin/ar qc liblab_09.a CMakeFiles/lab_09.dir/sources/main.cpp.o CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o CMakeFiles/lab_09.dir/sources/StringObject.cpp.o CMakeFiles/lab_09.dir/sources/IntObject.cpp.o CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o
+/usr/bin/ar qc liblab_09.a CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o CMakeFiles/lab_09.dir/sources/StringObject.cpp.o CMakeFiles/lab_09.dir/sources/IntObject.cpp.o CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o
 /usr/bin/ranlib liblab_09.a

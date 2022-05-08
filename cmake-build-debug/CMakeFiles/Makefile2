@@ -176,12 +176,12 @@ test/clean: test/CMakeFiles/testing.dir/clean
 CMakeFiles/lab_09.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lab_09.dir/build.make CMakeFiles/lab_09.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lab_09.dir/build.make CMakeFiles/lab_09.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=9,10,11,12,13,14,15 "Built target lab_09"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=9,10,11,12,13,14 "Built target lab_09"
 .PHONY : CMakeFiles/lab_09.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab_09.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lab_09.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/lab_09.dir/rule
@@ -314,12 +314,12 @@ test/CMakeFiles/testing.dir/all: googletest/googletest/CMakeFiles/gtest.dir/all
 test/CMakeFiles/testing.dir/all: googletest/googletest/CMakeFiles/gtest_main.dir/all
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/testing.dir/build.make test/CMakeFiles/testing.dir/depend
 	$(MAKE) $(MAKESILENT) -f test/CMakeFiles/testing.dir/build.make test/CMakeFiles/testing.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=16,17,18,19,20,21,22 "Built target testing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=15,16,17,18,19,20,21 "Built target testing"
 .PHONY : test/CMakeFiles/testing.dir/all
 
 # Build rule for subdir invocation for target.
 test/CMakeFiles/testing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles 18
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test/CMakeFiles/testing.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles 0
 .PHONY : test/CMakeFiles/testing.dir/rule

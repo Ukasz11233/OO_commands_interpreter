@@ -4,7 +4,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/lab_09.dir/sources/IntObject.cpp.o"
   "CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o"
   "CMakeFiles/lab_09.dir/sources/StringObject.cpp.o"
-  "CMakeFiles/lab_09.dir/sources/main.cpp.o"
   "liblab_09.a"
   "liblab_09.pdb"
 )

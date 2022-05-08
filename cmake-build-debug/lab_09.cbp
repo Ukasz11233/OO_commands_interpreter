@@ -427,9 +427,6 @@
 			<Option target="lab_09"/>
 			<Option target="testing"/>
 		</Unit>
-		<Unit filename="/home/ukasz/Desktop/PP2/lab_09/sources/main.cpp">
-			<Option target="lab_09"/>
-		</Unit>
 		<Unit filename="/home/ukasz/Desktop/PP2/lab_09/test/testing.cpp">
 			<Option target="testing"/>
 		</Unit>

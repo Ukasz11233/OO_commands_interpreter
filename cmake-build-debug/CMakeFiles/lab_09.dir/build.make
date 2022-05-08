@@ -76,22 +76,9 @@ include CMakeFiles/lab_09.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/lab_09.dir/flags.make
 
-CMakeFiles/lab_09.dir/sources/main.cpp.o: CMakeFiles/lab_09.dir/flags.make
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../sources/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab_09.dir/sources/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab_09.dir/sources/main.cpp.o -c /home/ukasz/Desktop/PP2/lab_09/sources/main.cpp
-
-CMakeFiles/lab_09.dir/sources/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lab_09.dir/sources/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ukasz/Desktop/PP2/lab_09/sources/main.cpp > CMakeFiles/lab_09.dir/sources/main.cpp.i
-
-CMakeFiles/lab_09.dir/sources/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lab_09.dir/sources/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ukasz/Desktop/PP2/lab_09/sources/main.cpp -o CMakeFiles/lab_09.dir/sources/main.cpp.s
-
 CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o: CMakeFiles/lab_09.dir/flags.make
 CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o: ../sources/DoubleObject.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o -c /home/ukasz/Desktop/PP2/lab_09/sources/DoubleObject.cpp
 
 CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.i: cmake_force
@@ -104,7 +91,7 @@ CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.s: cmake_force
 
 CMakeFiles/lab_09.dir/sources/StringObject.cpp.o: CMakeFiles/lab_09.dir/flags.make
 CMakeFiles/lab_09.dir/sources/StringObject.cpp.o: ../sources/StringObject.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lab_09.dir/sources/StringObject.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lab_09.dir/sources/StringObject.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab_09.dir/sources/StringObject.cpp.o -c /home/ukasz/Desktop/PP2/lab_09/sources/StringObject.cpp
 
 CMakeFiles/lab_09.dir/sources/StringObject.cpp.i: cmake_force
@@ -117,7 +104,7 @@ CMakeFiles/lab_09.dir/sources/StringObject.cpp.s: cmake_force
 
 CMakeFiles/lab_09.dir/sources/IntObject.cpp.o: CMakeFiles/lab_09.dir/flags.make
 CMakeFiles/lab_09.dir/sources/IntObject.cpp.o: ../sources/IntObject.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/lab_09.dir/sources/IntObject.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lab_09.dir/sources/IntObject.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab_09.dir/sources/IntObject.cpp.o -c /home/ukasz/Desktop/PP2/lab_09/sources/IntObject.cpp
 
 CMakeFiles/lab_09.dir/sources/IntObject.cpp.i: cmake_force
@@ -130,7 +117,7 @@ CMakeFiles/lab_09.dir/sources/IntObject.cpp.s: cmake_force
 
 CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o: CMakeFiles/lab_09.dir/flags.make
 CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o: ../sources/ReadInput.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o -c /home/ukasz/Desktop/PP2/lab_09/sources/ReadInput.cpp
 
 CMakeFiles/lab_09.dir/sources/ReadInput.cpp.i: cmake_force
@@ -143,7 +130,7 @@ CMakeFiles/lab_09.dir/sources/ReadInput.cpp.s: cmake_force
 
 CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o: CMakeFiles/lab_09.dir/flags.make
 CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o: ../sources/ComplexObject.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o -c /home/ukasz/Desktop/PP2/lab_09/sources/ComplexObject.cpp
 
 CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.i: cmake_force
@@ -156,7 +143,6 @@ CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.s: cmake_force
 
 # Object files for target lab_09
 lab_09_OBJECTS = \
-"CMakeFiles/lab_09.dir/sources/main.cpp.o" \
 "CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o" \
 "CMakeFiles/lab_09.dir/sources/StringObject.cpp.o" \
 "CMakeFiles/lab_09.dir/sources/IntObject.cpp.o" \
@@ -166,7 +152,6 @@ lab_09_OBJECTS = \
 # External object files for target lab_09
 lab_09_EXTERNAL_OBJECTS =
 
-liblab_09.a: CMakeFiles/lab_09.dir/sources/main.cpp.o
 liblab_09.a: CMakeFiles/lab_09.dir/sources/DoubleObject.cpp.o
 liblab_09.a: CMakeFiles/lab_09.dir/sources/StringObject.cpp.o
 liblab_09.a: CMakeFiles/lab_09.dir/sources/IntObject.cpp.o
@@ -174,7 +159,7 @@ liblab_09.a: CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o
 liblab_09.a: CMakeFiles/lab_09.dir/sources/ComplexObject.cpp.o
 liblab_09.a: CMakeFiles/lab_09.dir/build.make
 liblab_09.a: CMakeFiles/lab_09.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX static library liblab_09.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library liblab_09.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/lab_09.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lab_09.dir/link.txt --verbose=$(VERBOSE)
 

@@ -1,9 +1,5 @@
 #include <gtest/gtest.h>
-#include "../headers/Object.h"
-#include "../headers/DoubleObject.h"
-#include "../headers/IntObject.h"
-#include "../headers/StringObject.h"
-#include "../headers/ComplexObject.h"
+
 #include "../headers/ReadInput.h"
 
 

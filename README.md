@@ -46,5 +46,9 @@ _StringObject("Hello World!Hello World! @@!! @@!!")_
 _ComplexObject(8+2i)_
 
 
+# TESTS
+In directory __tests__ there is file __testing.cpp__ in which you can create your own tests
+and try to run it on your own.
+
 
 

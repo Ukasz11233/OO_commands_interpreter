@@ -399,33 +399,6 @@ sources/StringObject.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lab_09.dir/build.make CMakeFiles/lab_09.dir/sources/StringObject.cpp.s
 .PHONY : sources/StringObject.cpp.s
 
-sources/main.o: sources/main.cpp.o
-
-.PHONY : sources/main.o
-
-# target to build an object file
-sources/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lab_09.dir/build.make CMakeFiles/lab_09.dir/sources/main.cpp.o
-.PHONY : sources/main.cpp.o
-
-sources/main.i: sources/main.cpp.i
-
-.PHONY : sources/main.i
-
-# target to preprocess a source file
-sources/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lab_09.dir/build.make CMakeFiles/lab_09.dir/sources/main.cpp.i
-.PHONY : sources/main.cpp.i
-
-sources/main.s: sources/main.cpp.s
-
-.PHONY : sources/main.s
-
-# target to generate assembly for a file
-sources/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lab_09.dir/build.make CMakeFiles/lab_09.dir/sources/main.cpp.s
-.PHONY : sources/main.cpp.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -460,9 +433,6 @@ help:
 	@echo "... sources/StringObject.o"
 	@echo "... sources/StringObject.i"
 	@echo "... sources/StringObject.s"
-	@echo "... sources/main.o"
-	@echo "... sources/main.i"
-	@echo "... sources/main.s"
 .PHONY : help
 
 

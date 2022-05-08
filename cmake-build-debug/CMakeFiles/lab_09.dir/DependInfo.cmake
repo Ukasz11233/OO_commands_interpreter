@@ -9,7 +9,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ukasz/Desktop/PP2/lab_09/sources/IntObject.cpp" "/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles/lab_09.dir/sources/IntObject.cpp.o"
   "/home/ukasz/Desktop/PP2/lab_09/sources/ReadInput.cpp" "/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles/lab_09.dir/sources/ReadInput.cpp.o"
   "/home/ukasz/Desktop/PP2/lab_09/sources/StringObject.cpp" "/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles/lab_09.dir/sources/StringObject.cpp.o"
-  "/home/ukasz/Desktop/PP2/lab_09/sources/main.cpp" "/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/CMakeFiles/lab_09.dir/sources/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

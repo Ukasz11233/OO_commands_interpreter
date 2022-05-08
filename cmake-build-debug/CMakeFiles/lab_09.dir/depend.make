@@ -25,11 +25,3 @@ CMakeFiles/lab_09.dir/sources/StringObject.cpp.o: ../headers/Object.h
 CMakeFiles/lab_09.dir/sources/StringObject.cpp.o: ../headers/StringObject.h
 CMakeFiles/lab_09.dir/sources/StringObject.cpp.o: ../sources/StringObject.cpp
 
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../headers/ComplexObject.h
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../headers/DoubleObject.h
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../headers/IntObject.h
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../headers/Object.h
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../headers/ReadInput.h
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../headers/StringObject.h
-CMakeFiles/lab_09.dir/sources/main.cpp.o: ../sources/main.cpp
-

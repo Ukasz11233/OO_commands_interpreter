@@ -1,3 +1,37 @@
-Start testing: May 08 16:15 CEST
+Start testing: May 08 16:40 CEST
 ----------------------------------------------------------
-End testing: May 08 16:15 CEST
+1/1 Testing: testing
+1/1 Test: testing
+Command: "/home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/test/testing"
+Directory: /home/ukasz/Desktop/PP2/lab_09/cmake-build-debug/test
+"testing" start time: May 08 16:40 CEST
+Output:
+----------------------------------------------------------
+Running main() from /home/ukasz/Desktop/PP2/lab_09/googletest/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from Testing
+[ RUN      ] Testing.test_input_num_1
+[       OK ] Testing.test_input_num_1 (0 ms)
+[ RUN      ] Testing.test_input_num_2
+[       OK ] Testing.test_input_num_2 (0 ms)
+[ RUN      ] Testing.test_input_num_3
+[       OK ] Testing.test_input_num_3 (0 ms)
+[ RUN      ] Testing.test_input_num_4
+[       OK ] Testing.test_input_num_4 (0 ms)
+[ RUN      ] Testing.test_input_num_5
+[       OK ] Testing.test_input_num_5 (0 ms)
+[----------] 5 tests from Testing (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testing" end time: May 08 16:40 CEST
+"testing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 08 16:40 CEST
