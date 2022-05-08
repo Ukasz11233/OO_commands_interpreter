@@ -12,7 +12,7 @@ add_subdirectory(test)
 
 
 set(SOURCE_FILES
-        sources/main.cpp
+        #sources/main.cpp
         sources/DoubleObject.cpp
         sources/StringObject.cpp
         sources/IntObject.cpp
