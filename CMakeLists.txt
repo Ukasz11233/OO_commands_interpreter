@@ -6,13 +6,13 @@ set(CMAKE_CXX_STANDARD 14)
 
 enable_testing()
 add_subdirectory(googletest)
-add_subdirectory(test)
+#add_subdirectory(test)
 
 
 
 
 set(SOURCE_FILES
-        #sources/main.cpp
+        sources/main.cpp
         sources/DoubleObject.cpp
         sources/StringObject.cpp
         sources/IntObject.cpp
@@ -28,8 +28,8 @@ set(HEADER_FILES
         headers/ComplexObject.h
         )
 
-add_library(lab_09 STATIC ${SOURCE_FILES} ${HEADER_FILES})
+#add_library(lab_09 STATIC ${SOURCE_FILES} ${HEADER_FILES})
 
 
-#add_executable(${PROJECT_NAME} ${SOURCE_FILES} )
-#target_include_directories(${PROJECT_NAME} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+add_executable(${PROJECT_NAME} ${SOURCE_FILES} )
+target_include_directories(${PROJECT_NAME} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})

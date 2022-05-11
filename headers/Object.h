@@ -20,10 +20,10 @@ public:
     virtual double get_dbl() const {return 0;};
     virtual int get_int() const {return 0;};
     virtual std::complex<int> get_cplx() const {return 0;};
-    virtual void show(std::ostream &) const {}
+    virtual void show(std::ostream &) const = 0;
     virtual std::string test_str() const {return "";};
 
-    virtual void operator*(const int) {};
+    virtual void operator*(const int) = 0;
 
 };
 
